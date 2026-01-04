@@ -9,6 +9,7 @@ Stereo-seq and scRNA-seq raw data have been archived in the China National GeneB
 Processed datasets derived from Stereo-seq and scRNA-seq analyses were released within online atlas browser (https://db.genomics.cn/stomics/gitomicsdb/). 
 
 ## The workflow of the three strategies integration
-<img width="2426" height="1016" alt="3strategies_worflow" src="https://github.com/user-attachments/assets/d992d784-6248-42ef-baf6-01c21878c0b2" />
-## The workflow of the CCM analysis
+<img width="2426" height="1016" alt="3strategies" src="https://github.com/user-attachments/assets/468ab51f-7a26-43e0-9be0-f92d01723fb0" />
 
+## The workflow of the CCM analysis
+<img width="2426" height="2335" alt="ccm_workflow" src="https://github.com/user-attachments/assets/da2e63e5-6c2d-4732-869d-500db45290f8" />
