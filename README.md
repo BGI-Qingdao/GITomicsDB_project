@@ -9,10 +9,11 @@ Stereo-seq and scRNA-seq raw data have been archived in the China National GeneB
 Processed datasets derived from Stereo-seq and scRNA-seq analyses were released within online atlas browser (https://db.genomics.cn/stomics/gitomicsdb/). 
 
 ## Single-Cell & Spatial Omics Roadmap
-<img width="1921" height="822" alt="GITomicsDB_project" src="https://github.com/user-attachments/assets/dd958b9e-5770-41e8-82f6-f6269c778d8b" />
+<img width="1988" height="824" alt="GITomicsDB_project" src="https://github.com/user-attachments/assets/00d44ba8-179c-4e30-9dd6-c68dcc523da1" />
 
 ## The workflow of the three strategies integration
 <img width="2426" height="1016" alt="3strategies" src="https://github.com/user-attachments/assets/b47ea0d4-254b-4444-a201-e4080b02a692" />
+
 ## The workflow of the CCM analysis
 <img width="2426" height="2335" alt="ccm_workflow" src="https://github.com/user-attachments/assets/628d494a-2af7-461a-9855-b15bf9494ef2" />
 
