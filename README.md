@@ -15,6 +15,7 @@ Processed datasets derived from Stereo-seq and scRNA-seq analyses were released 
 <img width="2426" height="1016" alt="3strategies" src="https://github.com/user-attachments/assets/b47ea0d4-254b-4444-a201-e4080b02a692" />
 
 ## The workflow of the CCM analysis
-<img width="2427" height="2746" alt="Figure S5(2)" src="https://github.com/user-attachments/assets/15dcda85-9cc2-4330-aa31-8c399adff7bb" />
+<img width="2405" height="2777" alt="Figure S5(1)" src="https://github.com/user-attachments/assets/f2c3ae3d-1c9b-42dc-a997-b2b0dcb9e39b" />
+
 
 
